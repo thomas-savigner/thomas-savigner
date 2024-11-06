@@ -17,7 +17,8 @@
 - 🔭 I work mainly for freelancers and small companies. I help them showcase their business with websites that reflect their image and optimize their SEO.
 - 🌱 To create cool designs for my customers, I'm currently studying the Threejs javascript library to create animations with 3D scenes, as well as the WebGL programming interface.
 
-- 💡 I'm also interested in everything to do with music and the web, and streaming audio. I'd be up for a group project in this area.
+- 💡 I'm also interested in everything to do with music and the web, as streaming audio. I'd be up for a group project in this area.
+
 - 🪁 Fun fact: In my spare time, I also fly stunt kites.
 
 ## Skills
