@@ -50,7 +50,7 @@
 
 |   |  |
 | -- | - |
-| *Email:* | [contact@realiweb.io](mailto:contact@realiweb.io) |
-| *Visit my website:*  | [![Réaliweb logo](/img/realiwebSphereTransparentBckGrnD.png)](https://realiweb.io) |
+| *Email:* | [contact@realiweb.fr](mailto:contact@realiweb.fr) |
+| *Visit my website:*  | [![Réaliweb logo](/img/realiwebSphereTransparentBckGrnD.png)](https://realiweb.fr) |
 | *You can find me on:* | <a href="https://fr.linkedin.com/in/thomas-savigner" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo"  /></a> <img width=""><a href="https://twitter.com/thoWebDev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter logo"  /></a><img width=""><a href="https://www.instagram.com/thowebdev/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="40" alt="instagram logo"  /></a> |
 </div>
